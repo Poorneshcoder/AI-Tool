@@ -151,6 +151,10 @@ form img {
 
 @media only screen and (max-width:799px) {
   #chat_container{
+
     height:90%;
+  }
+  #app{
+    height: 90vh;
   }
 }
